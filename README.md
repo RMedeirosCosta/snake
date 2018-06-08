@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-*Rust >= 1.x. See: [Rust Installation|https://www.rust-lang.org/en-US/install.html]
+* Rust >= 1.x. [Rust Installation](https://www.rust-lang.org/en-US/install.html "See:")
 
 ### Installing
 
